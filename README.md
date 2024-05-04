@@ -5,7 +5,7 @@ The Phonebook Microservice Web Application is designed to provide students with 
 ## Project Structure
 
 ```
-206-Kubernetes-Microservice-Phonebook/
+Kubernetes-Microservice-Phonebook/
 │
 ├── Initial files/
 │   ├── README.md
