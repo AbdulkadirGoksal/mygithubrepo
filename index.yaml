@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kadir-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-04T14:57:40.663654-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 2116d91b5a5fc8c9e71b1102ff66d862925cf986db804e3d7de54872a93230ca
+    name: kadir-chart
+    type: application
+    urls:
+    - kadir-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-04T14:57:40.657793-05:00"
